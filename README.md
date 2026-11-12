@@ -1,5 +1,4 @@
-# GCD
-les 4 diagramme d'activite de inscription /reinscription de doctorat 
+
 # GCD
 les 4 diagramme d'activite de inscription /reinscription de doctorat 
 ---
